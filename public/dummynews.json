@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Zeke Miller, Foster Klug, Josh Boak,",
+            "title": "Biden endorses F-16 training for Ukrainians as Zelenskyy is set to attend G7 summit - The Associated Press",
+            "description": "HIROSHIMA, Japan (AP) — President Joe Biden on Friday endorsed plans to train Ukrainian pilots on U.S.-made F-16 fighter jets, according to two people familiar with the matter, as he huddled with leaders of the world’s most powerful democracies on plans to to…",
+            "url": "https://apnews.com/article/g7-japan-hiroshima-ukraine-biden-kishida-3ac64076f63786490a1b062f9a408408",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/14b22b31e91a4ee091df32f1a4ef0c37/3000.webp",
+            "publishedAt": "2023-05-19T14:15:00Z",
+            "content": "HIROSHIMA, Japan (AP) President Joe Biden on Friday endorsed plans to train Ukrainian pilots on U.S.-made F-16 fighter jets, according to two people familiar with the matter, as he huddled with leade… [+7954 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Sam Amick",
+            "title": "LeBron James and Anthony Davis letting Lakers down? Nuggets vs. the media and more: Nuggets-Lakers notes - The Athletic",
+            "description": "The Nuggets are up 2-0 and in control of the Western Conference Finals against the Lakers. Here's Sam Amick's notebook from Denver.",
+            "url": "https://theathletic.com/4533971/2023/05/19/lakers-nuggets-lebron-james-anthony-davis-jamal-murray/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/05/19090116/GettyImages-1491406012-1024x683.jpg",
+            "publishedAt": "2023-05-19T14:12:36Z",
+            "content": "DENVER When Lakers general manager Rob Pelinka was working the phones back in February, making all those trade calls that led to one of the more remarkable in-season turnarounds the league has ever s… [+10217 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allison Morrow,Natasha Chen",
+            "title": "Disney is scrapping plans for a new $1 billion Florida campus - CNN",
+            "description": "Disney on Thursday upped the ante in its battle with Florida’s Republican Gov. Ron DeSantis, and it cost his state 2,000 white-collar jobs.",
+            "url": "https://www.cnn.com/2023/05/18/media/disney-florida-desantis/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230323160107-disney-world-florida-0930-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-05-19T14:03:00Z",
+            "content": "Disney on Thursday upped the ante in its battle with Floridas Republican Gov. Ron DeSantis, and it cost his state 2,000 white-collar jobs.\r\nThe company is scrapping plans to build a $1 billion office… [+4189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Lee Brown",
+            "title": "President Biden looks confused, almost tumbles down stairs at G7 summit - New York Post ",
+            "description": "The near-fall and apparent confusion comes as there is already concern about Biden being the oldest-ever US president at 80.",
+            "url": "https://nypost.com/2023/05/19/biden-looks-confused-almost-falls-down-stairs-in-japan/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000011361001.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-05-19T13:47:00Z",
+            "content": "A confused-looking President Biden had to be gently guided by Japanese leader Fumio Kishida on Friday — before tripping and almost falling down some stairs.\r\nThe oldest-ever US president looked confu… [+3041 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Hugh Son",
+            "title": "Morgan Stanley CEO plans to step down within the year, sparking Wall Street succession race - CNBC",
+            "description": "Morgan Stanley's board has narrowed its CEO search to three \"very strong\" internal candidates to succeed Gorman, the chief said.",
+            "url": "https://www.cnbc.com/2023/05/19/morgan-stanley-ceo-succession-gorman-to-step-down-within-the-year.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107227918-16819180762023-04-19t151527z_10688960_rc23xx9x3nx9_rtrmadp_0_morgan-stanley-m-a.jpeg?v=1684502049&w=1920&h=1080",
+            "publishedAt": "2023-05-19T13:14:09Z",
+            "content": "James Gorman said Friday he plans to resign as Morgan Stanley's CEO within the year, setting off a succession race atop one of Wall Street's dominant firms.\r\nThe bank's board has narrowed its CEO sea… [+2712 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russian forces in retreat near Bakhmut, Ukraine and Wagner say - Reuters",
+            "description": "The Ukrainian military and Russia's Wagner private army both reported further Russian retreats around the city of Bakhmut on Thursday, as Kyiv pressed on with its biggest advance for six months ahead of a planned counteroffensive.",
+            "url": "https://www.reuters.com/world/europe/russian-forces-retreat-near-bakhmut-ukraine-wagner-say-2023-05-18/",
+            "urlToImage": "https://www.reuters.com/resizer/1ko3oEuDZuMA-qi9HfwXcnG0dRc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y7IOVBXKOZLAVL4EYAZT3PMGEU.jpg",
+            "publishedAt": "2023-05-19T12:55:00Z",
+            "content": "NEAR BAKHMUT, Ukraine, May 18 (Reuters) - The Ukrainian military and Russia's Wagner private army both reported further Russian retreats around the city of Bakhmut on Thursday, as Kyiv pressed on wit… [+5775 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Steve Gardner",
+            "title": "PGA Championship 2023 live updates: Bryson DeChambeau tops leaderboard as Round 2 begins - USA TODAY",
+            "description": "Play has resumed after the first round was suspended due to darkness at Oak Hill Country Club, and there's been a change atop the leaderboard.",
+            "url": "https://www.usatoday.com/story/sports/golf/pga/2023/05/19/pga-championship-round-2-leaderboard-live-updates-friday/70233832007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/05/19/USAT/516dbf4d-0475-4fa1-8b1d-18a337c3bc00-USP_PGA__PGA_Championship_-_First_Round_1.jpg?crop=6080,3420,x0,y518&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2023-05-19T12:54:07Z",
+            "content": "A competitive opening round yielded a crowded list of names atop the leaderboard as the second round of the PGA Championship got underway Friday at Oak Hill Country Club in Rochester, New York.\r\nLIV … [+12817 chars]"
+        }
+    ]
+}
