@@ -45,7 +45,10 @@ const update = async()=>{
     let parseData = await data.json();
 
     setArticles(articles.concat(parseData.articles));
+    
     setTotalResults(parseData.totalResults);
+    console.log(parseData.totalResults);
+
     setLoading(false);
 
   };
@@ -64,7 +67,7 @@ const update = async()=>{
       <InfiniteScroll
         dataLength={articles.length}
         next={fetchMoreData}
-        hasMore={articles.length <= totalResults}
+        hasMore={articles.length < totalResults}
 
         loader={<Loading />}
       >
