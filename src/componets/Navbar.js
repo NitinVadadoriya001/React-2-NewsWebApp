@@ -17,13 +17,14 @@ const Navbar = () => {
 
                             <li className="nav-item"><Link className="nav-link" to="/business">Business</Link></li>
                             <li className="nav-item"><Link className="nav-link" to="/entertainment">Entertainment</Link></li>
-                            <li className="nav-item"><Link className="nav-link" to="/general">general</Link></li>
-                            <li className="nav-item"><Link className="nav-link" to="/health">Health</Link></li>
-                            <li className="nav-item"><Link className="nav-link" to="/science">Science</Link></li>
+                            <li className="nav-item"><Link className="nav-link" to="/world">World</Link></li>
+                            <li className="nav-item"><Link className="nav-link" to="/automobile">Automobile</Link></li>
+                            <li className="nav-item"><Link className="nav-link" to="/politics">Politics</Link></li>
                             <li className="nav-item"><Link className="nav-link" to="/sports">Sports</Link></li>
                             <li className="nav-item"><Link className="nav-link" to="/technology">Technology</Link></li>
+                            <li className="nav-item"><Link className="nav-link" to="/startup">Startup</Link></li>
                         </ul>
-
+                      <b> <span style={{color:"green",fontFamily:"verdana"}}>NitinCode</span></b>
                     </div>
                 </div>
             </nav>
